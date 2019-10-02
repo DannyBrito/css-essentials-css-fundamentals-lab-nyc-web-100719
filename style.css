@@ -23,5 +23,5 @@ nav a{
 #featured-property > p{
   width: 800px;
   justify-content: center;
-  
+  background-color: green;
 }
