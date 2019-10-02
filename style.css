@@ -32,4 +32,5 @@ nav a{
  #details > div{
    background-color: red;
    text-align: center;
+   width: 25%;
  }
