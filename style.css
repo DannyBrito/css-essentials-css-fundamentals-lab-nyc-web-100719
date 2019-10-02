@@ -21,7 +21,6 @@ nav a{
   justify-content: center;
 }
 #featured-property > p{
-  width: 800px;
-
+  
   background-color: green;
 }
