@@ -22,6 +22,6 @@ nav a{
 }
 #featured-property  p{
   width: 800px;
-  justify-content: right;
+  justify-content: flex-end;
   background-color: green;
 }
