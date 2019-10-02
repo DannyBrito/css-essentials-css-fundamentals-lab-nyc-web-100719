@@ -27,5 +27,5 @@ nav a{
   margin-right: auto;
 }
  #details{
-   display: table;
+   display: table-headergroup;
  }
