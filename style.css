@@ -23,5 +23,6 @@ nav a{
 #featured-property > p{
   width: 800px;
   justify-content: center;
+  align-content: center;
   
 }
