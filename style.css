@@ -26,6 +26,6 @@ nav a{
   margin-left: auto;
   margin-right: auto;
 }
- #details >h3{
+ #details{
    display: block;
  }
