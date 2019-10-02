@@ -27,5 +27,5 @@ nav a{
   margin-right: auto;
 }
  #details >h3{
-   display: table-header-group;
+   display: block;
  }
