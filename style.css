@@ -26,6 +26,6 @@ nav a{
   margin-left: auto;
   margin-right: auto;
 }
- #details >div{
+ #details >h3{
    display: table-header-group;
  }
